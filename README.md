@@ -45,5 +45,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 
 ## 👨‍💻 Geliştirici
 
-**Furkan Kswe**  
-📫 İletişim: [GitHub](https://github.com/Furkn17)
+**Furkan Yılmaz**  
+📫 İletişim:  
+[GitHub](https://github.com/Furkn17) • [LinkedIn](https://www.linkedin.com/in/furkan-yılmaz-391703301)
+
