@@ -1,16 +1,49 @@
-# kelime_ezberleme_uyg
+# QueazyApp 🧠📱
 
-A new Flutter project.
+QueazyApp, kelimeleri etkili şekilde ezberlemek isteyen kullanıcılar için geliştirilmiş sade ve kullanışlı bir mobil uygulamadır. Flutter ile geliştirilmiş, SQLite veritabanı desteği ve özelleştirilebilir liste yapısıyla dikkat çeker.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- 📚 Kendi kelime listeni oluştur
+- 🧪 Çoktan seçmeli test modu
+- 💾 Veriler lokal olarak SQLite ile saklanır
+- 🌙 Hafif ve sade arayüz
+- 🔔 Bildirim ile kelime hatırlatmaları (gelecek güncellemede)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Kurulum
+
+Aşağıdaki adımları izleyerek projeyi yerel ortamınızda çalıştırabilirsiniz:
+
+```bash
+git clone https://github.com/Furkn17/QueazyApp.git
+cd QueazyApp
+flutter pub get
+flutter run
+```
+
+> ⚠️ Not: Flutter SDK'nın sisteminize yüklü olması gerekir. [Flutter Kurulum Rehberi](https://flutter.dev/docs/get-started/install)
+
+---
+
+## 🔧 Kullanılan Teknolojiler
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- SQLite (lokal veri saklama)
+
+---
+
+## 📜 Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atın.
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Furkan Kswe**  
+📫 İletişim: [GitHub](https://github.com/Furkn17)
